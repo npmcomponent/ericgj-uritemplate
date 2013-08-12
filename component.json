@@ -1,0 +1,14 @@
+{
+  "name": "uritemplate",
+  "repo": "ericgj/uritemplate-js",
+  "description": "A javascript implementation of RFC6570 URI Templates",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "bin/uritemplate.js",
+  "scripts": [
+    "bin/uritemplate.js"
+  ]
+}
